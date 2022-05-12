@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be23c0d3-8a72-4113-9c2e-4e561161494b" name="Changes" comment="" />
+    <list default="true" id="be23c0d3-8a72-4113-9c2e-4e561161494b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8f07ec70-7828-477f-908e-3fac3b92d9f7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/8f07ec70-7828-477f-908e-3fac3b92d9f7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +12,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -50,7 +54,8 @@
       <workItem from="1652206778327" duration="1049000" />
       <workItem from="1652213062887" duration="6485000" />
       <workItem from="1652346450868" duration="371000" />
-      <workItem from="1652348057475" duration="8036000" />
+      <workItem from="1652348057475" duration="8479000" />
+      <workItem from="1652356636596" duration="1228000" />
     </task>
     <servers />
   </component>
